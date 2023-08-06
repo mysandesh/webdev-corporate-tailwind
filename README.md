@@ -1,6 +1,6 @@
 # webdev-corporate-tailwind
 
-Corporate Website using Tailwind CLI
+Corporate Website Landing Page using Tailwind CLI
 
 # Usage
 
